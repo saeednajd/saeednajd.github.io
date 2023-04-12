@@ -449,11 +449,27 @@ margin-left: 1vw;
 }
 .about-me-span{
   margin-right: 2vw;
-  width: 100vw;
-  background-color: #e74c3c;
+  width: 15vw;
+  border-bottom: 2px solid #e74c3c;
   height: 4vh;
 }
 .about-me{
   padding-top: 2vh;
   padding-right: 5vh;
+}
+
+.about-me-content{
+  padding-top: 3vh;
+  padding-right: 10vh;
+}
+.edu-wrapper{
+
+  width: 2vw;
+  margin-top: 2vh;
+  margin-right: 2.5vw;
+}
+.work-wrapper{
+  width: 1vw;
+  margin-top: 2vh;
+  margin-right: 3vw;
 }
