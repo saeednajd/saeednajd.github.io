@@ -473,3 +473,6 @@ margin-left: 1vw;
   margin-top: 2vh;
   margin-right: 3vw;
 }
+.normal-personal-section{
+  display: none;
+}

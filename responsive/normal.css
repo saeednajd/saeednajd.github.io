@@ -1,0 +1,123 @@
+.center{
+    height: 10vh;
+    width: 10vh;
+}
+.frame{
+    height: 15vh;
+    align-self: end;
+}
+.wrapper-right-one h4{
+    font-size: 0.6rem;
+}
+.wrapper-right-one{
+    height: 2vh;
+    border: 0px;
+
+}
+.personal-flex span{
+    font-size: 0.7rem;
+
+}
+.left-detail{
+    margin-right: 5%;
+    width: 90vw;
+    height: 65vh;
+}
+.card{
+    width: 28vw;
+    display: none;
+}
+.about-me-content{
+    padding-right: 0px;
+    
+}
+
+.normal-personal-section{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    width: 90vw;
+
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2vh;
+    border-radius: 25px;
+    background-color: #e74c3c;
+
+
+}
+
+.my-image-normal {
+    margin-top: 2vh;
+    margin-right: 5vw;
+    border-radius: 60%;
+    border: 4px solid #34495e;
+    width: 15vw;
+    height: 15vw;
+}
+.my-image-normal img{
+    width: 15vw;
+    height: 15vw;
+    border-radius: 50%;
+}
+.my-row-flex-normal-size{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    
+}
+.my-row-flex-normal-size div h2{
+    color: white;
+
+    width: 68vw;
+    text-align: center;
+    margin-top: 5vh;
+}
+.personal-info-normal{
+
+    margin-top: 4vh;
+
+}
+.personal-info-normal div span{
+    color: white;
+    font-size:  1.5rem;
+}
+.my-hr-normal{
+    opacity: 0.5;
+    margin-top: 1.5vh;
+    margin-bottom: 1vh;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50vw;
+    border-color: #34495e;
+}
+.contact-normal{
+
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact-normal div span{
+    color: #34495e;
+    font-size: 1.5rem;
+}
+.normal-centerd{
+    margin-right: auto;
+    margin-left: auto;
+}
+.language-normal{
+    text-align: center;
+    width: 30vw;
+}
+.language-normal .len-eng-spn-sec{
+    
+    color: white;
+}
+.normal-centerd .lan{
+    width: 30vw;
+    text-align: center;
+}
+.normal-centerd div{
+    color: white;
+}
